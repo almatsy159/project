@@ -1,0 +1,13 @@
+wsl ls | wsl grep .txt
+wsl ls | wsl grep .txt
+wsl ls
+wsl ls
+wsl ls
+wsl ls
+wsl ls
+wsl ls
+wsl ls
+wsl ls
+wsl ls
+ls
+wsl ls
